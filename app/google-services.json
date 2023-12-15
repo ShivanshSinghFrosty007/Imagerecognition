@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888712461878",
+    "project_id": "ml-try-1bac9",
+    "storage_bucket": "ml-try-1bac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888712461878:android:1b88ea2d2d32c5b06c6297",
+        "android_client_info": {
+          "package_name": "com.example.imagerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888712461878-6sblg2q50kqntp2q742qpe81234p8vf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtuWKhvrCXBY-KOYPzYs4DrPAaX9zO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888712461878-6sblg2q50kqntp2q742qpe81234p8vf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
